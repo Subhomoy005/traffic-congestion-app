@@ -1,6 +1,6 @@
-streamlit
-opencv-python
-matplotlib
 torch
 torchvision
+opencv-python
+matplotlib
 pandas
+voila
